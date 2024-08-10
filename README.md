@@ -5,7 +5,7 @@ Este é o meu portfólio pessoal, construído com Next.js, Acertenity UI  e Tail
 
 ## Tecnologias
 * Next.js
-* Acertenity UI Next
+* Aceternity UI 
 * Tailwind CSS
 * TypeScript 
 
